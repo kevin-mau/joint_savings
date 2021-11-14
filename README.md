@@ -13,6 +13,7 @@ This application utilizes Solidity.
 ---
 ## Setting Accounts:
 `Dummy account1 address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb`
+
 `Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0`
  
  
