@@ -1,14 +1,14 @@
 # Joint Savings Account with Solidity
  
 ---
-### In this project we are building a smart contract to automate one of financial institutions’ processes and features: hosting joint savings accounts.  To automate the creation of joint savings accounts, we’ll create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. The smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.  We will use the [Remix IDE Website](https://remix.ethereum.org/) to compile and deploy our Smart Contract.  Screenshot demostrations of the Smart Contract interactions will be saved in the `Execution_Results` folder of this repository.  They are also shown below in this `README.md` file.
+### In this project we are building a smart contract to automate one of financial institutions’ processes and features: hosting joint savings accounts.  To automate the creation of joint savings accounts, we’ll create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. The smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.  We will use the [Remix IDE Website](https://remix.ethereum.org/) to compile and deploy our Smart Contract.  Screenshot demostrations of the Smart Contract interactions will be saved in the `Execution_Results` folder of this repository.  They are also shown below in this `README.md`.
 
 ---
 ## Installation Guide and Technologies:
 
-Compile, deploy, and interact with the `joint_savings.sol` file in the [Remix IDE Website](https://remix.ethereum.org/).
+We will compile, deploy, and interact with the `joint_savings.sol` file in the [Remix IDE Website](https://remix.ethereum.org/).
 
-This application utilizes Solidity.
+This application utilizes the Solidity programming language.
 
 ---
 ### Setting Accounts:
